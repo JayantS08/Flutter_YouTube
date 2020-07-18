@@ -1,16 +1,9 @@
 # flutter_youtube
 
-A new Flutter application.
+A new Flutter YouTube application for searching a video.
+Flutter Youtube_API is used for the purpose
+https://pub.dev/packages/youtube_api
 
-## Getting Started
+![alt text](https://github.com/jayant-prime/Flutter_YouTube/blob/master/youtube_API.gif "App GIF")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The search only updates when the length of data is greater then or equal to 3 otherwise just search is length is smaller then that/
